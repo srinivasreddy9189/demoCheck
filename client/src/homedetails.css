@@ -1,0 +1,37 @@
+.blue{
+    
+    color: blue;
+    padding: '8px 16px';
+    border: 'none';
+    border-Radius: '4px';
+    cursor: 'pointer';
+    width: 100px;
+    
+}
+.blue:focus{
+    color: blue;
+    box-shadow: none;
+    outline: none;
+}
+.grey:focus{
+    color: black;
+    box-shadow: none;
+    outline: none;
+    
+
+}
+.grey{
+    
+    color: black;
+    padding: '8px 16px';
+    border: 'none';
+    border-Radius: '4px';
+    cursor: 'pointer';
+   width: 100px;
+}
+.buttons{
+    width: 300px;
+}
+.img2{
+    border-radius: 50px;
+}

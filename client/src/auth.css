@@ -1,0 +1,87 @@
+.cont1{
+    background-color: lightgray;
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card_cont{
+    width: 350px;
+    
+    background-color:whitesmoke;
+    border-radius: 20px;
+    color: rgb(121, 33, 110);
+}
+.img1{
+    width: 150px;
+}
+.img_cont1{
+    justify-content: center;
+    display: flex;
+}
+.login_button{
+    background-color:rgb(121, 33, 110);
+    color: white;
+    width: 80px;
+    height: 40px;
+    border: none;
+    outline: none;
+    
+    
+
+}
+.login_button:focus,.button_off:focus{
+    box-shadow: none;
+}
+
+.login_button:hover,.button_off:hover{
+    border: none;
+    color: white;
+}
+.button_off{
+    background-color:#64748b;
+    color: white;
+    width: 80px;
+    height: 40px;  
+}
+.input11{
+    background-color :transparent;
+    color: black;
+    border: 1px solid black;
+}
+.input11:focus{
+    background-color: transparent;
+    box-shadow: none;
+    color: black;
+    outline: none;
+    border: 1px solid black;
+}
+.input2{
+    background-color :transparent;
+    color: black;
+    border: none;
+    outline: none;
+    width: 80%;
+}
+.input2:focus{
+    background-color: transparent;
+    box-shadow: none;
+    color: black;
+}
+.button3{
+    border: none;
+    background-color:transparent;
+    color: white;
+}
+.button4{
+    background-color: rgb(121, 33, 110);
+    color: white;
+    outline: none;
+    border: none;
+}
+.button4:focus{
+    box-shadow: none;
+    background-color:rgb(121, 33, 110);
+    color: white;
+}

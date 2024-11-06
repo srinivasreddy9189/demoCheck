@@ -1,0 +1,53 @@
+.job_btn{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.cont6{
+    height: 90px;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.btn3{
+    display: flex;
+    align-items: center;
+}
+.log_btn{
+    background-color:rgb(121, 33, 110);
+    color: white;
+    box-shadow: none;
+}
+.log_btn:focus{
+    
+    color: white;
+    outline: none;
+    box-shadow: none;
+}
+.log_btn:hover{
+    color: white;
+}
+/* .cont9{
+    position: fixed;
+
+} */
+.link:hover{
+    text-decoration: none;
+}
+
+.cont20{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    color: white;
+}
+
+.mode1:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
