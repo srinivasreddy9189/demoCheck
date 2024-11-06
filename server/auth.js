@@ -39,7 +39,7 @@ router.post('/signup',async(req,res)=>{
             gender:gender,
             password:maskedPass
         })
-
+//ssoekkqqnsnbasmnabnbanbd bn
         newUser.save();
         return res.status(200).json({message:'Registered sucess'})
     }
